@@ -34,7 +34,7 @@ $(document).ready(function(){
     };
     
     for (var i in data) {
-      $('.nav-tabs').append('<li role="presentation" class="nav-item"><button class=nav-link data-bs-toggle="tab" data-bs-target="#' + i +'" aria-controls="' + i + '" role="tab" data-toggle="tab" type="button">' + i + '</button></li>');
+      $('.nav-tabs').append('<li role="presentation" class="nav-item"><button class=nav-link data-bs-toggle="pill" data-bs-target="#pills-' + i +'" aria-controls="pills' + i + '" role="tab" type="button">' + i + '</button></li>');
     
       var div = '<div role="tabpanel" class="tab-pane" id="' + i + '">';
       
