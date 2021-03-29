@@ -34,7 +34,7 @@ $(document).ready(function(){
     };
     
     for (var i in data) {
-      $('.nav-tabs').append('<li role="presentation" class=""><a href="#' + i + '" aria-controls="' + i + '" role="tab" data-toggle="tab">' + i + '</a></li>');
+      $('.nav-tabs').append('<li role="presentation" class="nav-item"><a class=nav-link href="#' + i + '" aria-controls="' + i + '" role="tab" data-toggle="tab">' + i + '</a></li>');
     
       var div = '<div role="tabpanel" class="tab-pane" id="' + i + '">';
       
