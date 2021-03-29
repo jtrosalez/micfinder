@@ -20,7 +20,7 @@ $(document).ready(function(){
       
       for (var j = 0; j < data[i].length; j++) {
         var obj = data[i][j];
-        div += '<div class="d-flex align-items-start"><div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical"><button class="nav-link btn btn-primary" id="v-pills-' + obj.mic + '-tab"data-bs-toggle="pill" data-bs-target="#v-pills-' + obj.mic + '" type="button" role="tab" aria-controls="v-pills-' + obj.mic + '">' + obj.mic + '</button></div></div>';
+        div += '<div class="d-flex align-items-start"><div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical"><button class="nav-link btn" id="v-pills-' + obj.mic + '-tab"data-bs-toggle="pill" data-bs-target="#v-pills-' + obj.mic + '" type="button" role="tab" aria-controls="v-pills-' + obj.mic + '">' + obj.mic + '</button></div></div>';
      }
      $('.tab-content').append(div);
 }
