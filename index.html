@@ -12,7 +12,7 @@
 <script>
   
 $(document).ready(function(){
-  var data = {
+  /*var data = {
         "action":
             [
                 { "id": "1001", "type": "Matrix" },
@@ -31,7 +31,9 @@ $(document).ready(function(){
                 { "id": "3002", "type": "Tangled" },
                 { "id": "3003", "type": "Croods" }
                  ]
-    };
+    };*/
+  
+  $.getJSON("json/micList.json", function(data){console.log(data);};
     
     for (var i in data) {
       $('.nav-tabs').append('<li role="presentation" class="nav-item"><button class=nav-link data-bs-toggle="tab" data-bs-target="#' + i +'" aria-controls="' + i + '" role="tab" data-toggle="tab" type="button">' + i + '</button></li>');
