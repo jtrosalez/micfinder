@@ -33,8 +33,7 @@ $(document).ready(function(){
                  ]
     };*/
   
-  $.getJSON("json/micList.json", function(data){console.log(data);});
-    
+  $.getJSON("json/micList.json", function(data){
     for (var i in data) {
       $('.nav-tabs').append('<li role="presentation" class="nav-item"><button class=nav-link data-bs-toggle="tab" data-bs-target="#' + i +'" aria-controls="' + i + '" role="tab" data-toggle="tab" type="button">' + i + '</button></li>');
     
@@ -42,13 +41,15 @@ $(document).ready(function(){
       
       for (var j = 0; j < data[i].length; j++) {
         var obj = data[i][j];
-        div += '<div id="' + obj.id + '">' + obj.type + '</div>';
+        div += '<div id="' + obj.id + '">' + obj.mic + '</div>';
      }
      $('.tab-content').append(div);
 }
-
-$('.nav-tabs li').eq(0).addClass('active');
-$('.tab-content div').eq(0).addClass('active');
+  });
+  $('.nav-tabs li').eq(0).addClass('active');
+  $('.tab-content div').eq(0).addClass('active');
+  $('.nav-tabs li').eq(0).addClass('active');
+  $('.tab-content div').eq(0).addClass('active');
 });
 
 </script>
