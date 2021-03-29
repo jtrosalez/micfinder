@@ -1,9 +1,50 @@
 <script src=boostrap/bootstrap.js></script>
 <script src=boostrap/jquery.js></script>
+<link rel="stylesheet" href=bootstrap/bootstrap.css>
 
-<!-- tabs ul li -->
-<ul class="tabs">
-</ul>
-<!-- tabs content -->
 <div class="container">
+  <ul class="nav nav-tabs" role="tablist"></ul>
+  <div class="tab-content"></div>
 </div>
+
+<script>
+  
+$(document).ready(function(){
+  var data = {
+        "action":
+            [
+                { "id": "1001", "type": "Matrix" },
+                { "id": "1002", "type": "IP Man" },
+                { "id": "1003", "type": "Revenge" }
+            ],
+        "comedy":
+            [
+                { "id": "2001", "type": "Iceman" },
+                { "id": "2002", "type": "Pat & Mat" },
+                { "id": "2003", "type": "Sugar" }
+                 ],
+        "animation":
+            [
+                { "id": "3001", "type": "Frozen" },
+                { "id": "3002", "type": "Tangled" },
+                { "id": "3003", "type": "Croods" }
+                 ]
+    };
+    
+    for (var i in data) {
+      $('.nav-tabs').append('<li role="presentation" class=""><a href="#' + i + '" aria-controls="' + i + '" role="tab" data-toggle="tab">' + i + '</a></li>');
+    
+      var div = '<div role="tabpanel" class="tab-pane" id="' + i + '">';
+      
+      for (var j = 0; j < data[i].length; j++) {
+        var obj = data[i][j];
+        div += '<div id="' + obj.id + '">' + obj.type + '</div>';
+     }
+     $('.tab-content').append(div);
+}
+
+$('.nav-tabs li').eq(0).addClass('active');
+$('.tab-content div').eq(0).addClass('active');
+});
+
+</script>
