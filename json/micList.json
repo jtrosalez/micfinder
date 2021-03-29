@@ -1,293 +1,289 @@
 {
-   "Fourth Wall North Hollywood": [
+   "Monday": [
       {
-         "url": "https://slotted.co/fourthwall/",
-         "type": "slotted",
-         "address": "11674 Burbank Blvd, Los Angeles, CA 91601",
-         "day": "sun",
-         "time": "3pm-10pm"
+         "mic": "Accidental Chaos",
+         "url": "https://www.instagram.com/accidentalchaos/",
+         "type": "showup go up",
+         "address": "1041 North Orange Dr, Los Angeles, CA 90038",
+         "time": "9pm"
       },
       {
-         "url": "https://slotted.co/fourthwall/",
-         "type": "slotted",
-         "address": "11674 Burbank Blvd, Los Angeles, CA 91601",
-         "day": "mon",
-         "time": "5pm-10pm"
-      },
-      {
-         "url": "https://slotted.co/fourthwall/",
-         "type": "slotted",
-         "address": "11674 Burbank Blvd, Los Angeles, CA 91601",
-         "day": "tue",
-         "time": "5pm-10pm"
-      },
-      {
-         "url": "https://slotted.co/fourthwall/",
-         "type": "slotted",
-         "address": "11674 Burbank Blvd, Los Angeles, CA 91601",
-         "day": "wed",
-         "time": "5pm-10pm"
-      },
-      {
-         "url": "https://slotted.co/fourthwall/",
-         "type": "slotted",
-         "address": "11674 Burbank Blvd, Los Angeles, CA 91601",
-         "day": "thur",
-         "time": "5pm-10pm"
-      },
-      {
-         "url": "https://slotted.co/fourthwall/",
-         "type": "slotted",
-         "address": "11674 Burbank Blvd, Los Angeles, CA 91601",
-         "day": "fri",
-         "time": "5pm-10pm"
-      },
-      {
-         "url": "https://slotted.co/fourthwall/",
-         "type": "slotted",
-         "address": "11674 Burbank Blvd, Los Angeles, CA 91601",
-         "day": "sat",
-         "time": "3pm-10pm"
-      }
-   ],
-   "Fourth Wall Comedy Cafe": [
-      {
-         "url": "https://slotted.co/fwcafe",
-         "type": "slotted",
-         "address": "5220 Hollywood Blvd, Los Angeles, CA 90027",
-         "day": "sun",
-         "time": "12pm-3pm & 6pm-9pm "
-      },
-      {
-         "url": "https://slotted.co/fwcafe",
-         "type": "slotted",
-         "address": "5220 Hollywood Blvd, Los Angeles, CA 90027",
-         "day": "mon",
-         "time": "12pm-3pm & 6pm-9pm "
-      },
-      {
-         "url": "https://slotted.co/fwcafe",
-         "type": "slotted",
-         "address": "5220 Hollywood Blvd, Los Angeles, CA 90027",
-         "day": "tue",
-         "time": "12pm-3pm & 6pm-9pm "
-      },
-      {
-         "url": "https://slotted.co/fwcafe",
-         "type": "slotted",
-         "address": "5220 Hollywood Blvd, Los Angeles, CA 90027",
-         "day": "wed",
-         "time": "12pm-3pm & 6pm-9pm "
-      },
-      {
-         "url": "https://slotted.co/fwcafe",
-         "type": "slotted",
-         "address": "5220 Hollywood Blvd, Los Angeles, CA 90027",
-         "day": "thur",
-         "time": "12pm-3pm & 6pm-9pm "
-      },
-      {
-         "url": "https://slotted.co/fwcafe",
-         "type": "slotted",
-         "address": "5220 Hollywood Blvd, Los Angeles, CA 90027",
-         "day": "fri",
-         "time": "12pm-3pm & 6pm-9pm "
-      },
-      {
-         "url": "https://slotted.co/fwcafe",
-         "type": "slotted",
-         "address": "5220 Hollywood Blvd, Los Angeles, CA 90027",
-         "day": "sat",
-         "time": "12pm-3pm & 6pm-9pm "
-      }
-   ],
-   "Can't Even Comedy Open Mic": [
-      {
-         "url": "https://slotted.co/cantevencomedy/",
-         "type": "slotted",
-         "address": "6601 Sunset Blvd, Los Angeles, CA 90028",
-         "day": "tue",
-         "time": "4pm-8pm"
-      },
-      {
-         "url": "https://slotted.co/cantevencomedy/",
-         "type": "slotted",
-         "address": "6601 Sunset Blvd, Los Angeles, CA 90028",
-         "day": "thur",
-         "time": "4pm-8pm"
-      },
-      {
-         "url": "https://slotted.co/cantevencomedy/",
-         "type": "slotted",
-         "address": "6601 Sunset Blvd, Los Angeles, CA 90028",
-         "day": "sat",
-         "time": "4pm-8pm"
-      }
-   ],
-   "Big Chillin Comedy Open Mic": [
-      {
-         "url": "https://slotted.co/bigchillinopenmic/",
-         "type": "slotted",
-         "address": "120 North Rowan Ave, Los Angeles CA, 90063",
-         "day": "tue",
-         "time": "6pm-9pm"
-      },
-      {
-         "url": "https://slotted.co/bigchillinopenmic/",
-         "type": "slotted",
-         "address": "120 North Rowan Ave, Los Angeles CA, 90063",
-         "day": "wed",
-         "time": "6pm-9pm"
-      },
-      {
-         "url": "https://slotted.co/bigchillinopenmic/",
-         "type": "slotted",
-         "address": "120 North Rowan Ave, Los Angeles CA, 90063",
-         "day": "sat",
-         "time": "6pm-9pm"
-      }
-   ],
-   "Flashback Trap Mic": [
-      {
+         "mic": "Flashback Trap Mic",
          "url": "https://slotted.co/trapmic/",
          "type": "slotted",
          "address": "7611 Melrose Ave, Los Angeles, CA 90046",
-         "day": "sun",
-         "time": "6pm-9pm"
-      },
-      {
-         "url": "https://slotted.co/trapmic/",
-         "type": "slotted",
-         "address": "7611 Melrose Ave, Los Angeles, CA 90046",
-         "day": "mon",
          "time": "5pm-9pm"
       },
       {
-         "url": "https://slotted.co/trapmic/",
+         "mic": "Fourth Wall Comedy Cafe",
+         "url": "https://slotted.co/fwcafe",
          "type": "slotted",
-         "address": "7611 Melrose Ave, Los Angeles, CA 90046",
-         "day": "tue",
-         "time": "5pm-9pm"
+         "address": "5220 Hollywood Blvd, Los Angeles, CA 90027",
+         "time": "12pm-3pm & 6pm-9pm "
       },
       {
-         "url": "https://slotted.co/trapmic/",
+         "mic": "Fourth Wall North Hollywood",
+         "url": "https://slotted.co/fourthwall/",
          "type": "slotted",
-         "address": "7611 Melrose Ave, Los Angeles, CA 90046",
-         "day": "wed",
-         "time": "5pm-9pm"
+         "address": "11674 Burbank Blvd, Los Angeles, CA 91601",
+         "time": "5pm-10pm"
       },
       {
-         "url": "https://slotted.co/trapmic/",
-         "type": "slotted",
-         "address": "7611 Melrose Ave, Los Angeles, CA 90046",
-         "day": "thur",
-         "time": "5pm-9pm"
-      },
-      {
-         "url": "https://slotted.co/trapmic/",
-         "type": "slotted",
-         "address": "7611 Melrose Ave, Los Angeles, CA 90046",
-         "day": "fri",
-         "time": "5pm-9pm"
-      },
-      {
-         "url": "https://slotted.co/trapmic/",
-         "type": "slotted",
-         "address": "7611 Melrose Ave, Los Angeles, CA 90046",
-         "day": "sat",
-         "time": "6pm-9pm"
-      }
-   ],
-   "Set of the Night Mic by Bryson Banks": [
-      {
+         "mic": "Set of the Night Mic by Bryson Banks",
          "url": "https://slotted.co/banks",
          "type": "slotted",
          "address": "7600 Beverly Blvd, Los Angeles, 90036 ",
-         "day": "mon",
          "time": "7pm-8pm"
       },
       {
+         "mic": "The Comedy Nook",
+         "url": "https://slotted.co/comedynookmic/",
+         "type": "slotted",
+         "address": "7456 Melrose Ave, West Hollywood, CA 90046",
+         "time": "6pm-9pm"
+      }
+   ],
+   "Tuesday": [
+      {
+         "mic": "Accidental Chaos",
+         "url": "https://www.instagram.com/accidentalchaos/",
+         "type": "showup go up",
+         "address": "1041 North Orange Dr, Los Angeles, CA 90038",
+         "time": "9pm"
+      },
+      {
+         "mic": "Big Chillin Comedy Open Mic",
+         "url": "https://slotted.co/bigchillinopenmic/",
+         "type": "slotted",
+         "address": "120 North Rowan Ave, Los Angeles CA, 90063",
+         "time": "6pm-9pm"
+      },
+      {
+         "mic": "Can't Even Comedy Open Mic",
+         "url": "https://slotted.co/cantevencomedy/",
+         "type": "slotted",
+         "address": "6601 Sunset Blvd, Los Angeles, CA 90028",
+         "time": "4pm-8pm"
+      },
+      {
+         "mic": "Flashback Trap Mic",
+         "url": "https://slotted.co/trapmic/",
+         "type": "slotted",
+         "address": "7611 Melrose Ave, Los Angeles, CA 90046",
+         "time": "5pm-9pm"
+      },
+      {
+         "mic": "Fourth Wall Comedy Cafe",
+         "url": "https://slotted.co/fwcafe",
+         "type": "slotted",
+         "address": "5220 Hollywood Blvd, Los Angeles, CA 90027",
+         "time": "12pm-3pm & 6pm-9pm "
+      },
+      {
+         "mic": "Fourth Wall North Hollywood",
+         "url": "https://slotted.co/fourthwall/",
+         "type": "slotted",
+         "address": "11674 Burbank Blvd, Los Angeles, CA 91601",
+         "time": "5pm-10pm"
+      },
+      {
+         "mic": "The Comedy Nook",
+         "url": "https://slotted.co/comedynookmic/",
+         "type": "slotted",
+         "address": "7456 Melrose Ave, West Hollywood, CA 90046",
+         "time": "6pm-9pm"
+      }
+   ],
+   "Wednesday": [
+      {
+         "mic": "Accidental Chaos",
+         "url": "https://www.instagram.com/accidentalchaos/",
+         "type": "showup go up",
+         "address": "1041 North Orange Dr, Los Angeles, CA 90038",
+         "time": "9pm"
+      },
+      {
+         "mic": "Big Chillin Comedy Open Mic",
+         "url": "https://slotted.co/bigchillinopenmic/",
+         "type": "slotted",
+         "address": "120 North Rowan Ave, Los Angeles CA, 90063",
+         "time": "6pm-9pm"
+      },
+      {
+         "mic": "Flashback Trap Mic",
+         "url": "https://slotted.co/trapmic/",
+         "type": "slotted",
+         "address": "7611 Melrose Ave, Los Angeles, CA 90046",
+         "time": "5pm-9pm"
+      },
+      {
+         "mic": "Fourth Wall Comedy Cafe",
+         "url": "https://slotted.co/fwcafe",
+         "type": "slotted",
+         "address": "5220 Hollywood Blvd, Los Angeles, CA 90027",
+         "time": "12pm-3pm & 6pm-9pm "
+      },
+      {
+         "mic": "Fourth Wall North Hollywood",
+         "url": "https://slotted.co/fourthwall/",
+         "type": "slotted",
+         "address": "11674 Burbank Blvd, Los Angeles, CA 91601",
+         "time": "5pm-10pm"
+      },
+      {
+         "mic": "Set of the Night Mic by Bryson Banks",
          "url": "https://slotted.co/banks",
          "type": "slotted",
          "address": "7600 Beverly Blvd, Los Angeles, 90036 ",
-         "day": "wed",
          "time": "7pm-8pm"
-      }
-   ],
-   "The Comedy Nook": [
-      {
-         "url": "https://slotted.co/comedynookmic/",
-         "type": "slotted",
-         "address": "7456 Melrose Ave, West Hollywood, CA 90046",
-         "day": "sun",
-         "time": "6pm-9pm"
       },
       {
+         "mic": "The Comedy Nook",
          "url": "https://slotted.co/comedynookmic/",
          "type": "slotted",
          "address": "7456 Melrose Ave, West Hollywood, CA 90046",
-         "day": "mon",
-         "time": "6pm-9pm"
-      },
-      {
-         "url": "https://slotted.co/comedynookmic/",
-         "type": "slotted",
-         "address": "7456 Melrose Ave, West Hollywood, CA 90046",
-         "day": "tue",
-         "time": "6pm-9pm"
-      },
-      {
-         "url": "https://slotted.co/comedynookmic/",
-         "type": "slotted",
-         "address": "7456 Melrose Ave, West Hollywood, CA 90046",
-         "day": "wed",
          "time": "6pm-9pm"
       }
    ],
-   "Accidental Chaos": [
+   "Thursday": [
       {
+         "mic": "Accidental Chaos",
          "url": "https://www.instagram.com/accidentalchaos/",
          "type": "showup go up",
          "address": "1041 North Orange Dr, Los Angeles, CA 90038",
-         "day": "mon",
          "time": "9pm"
       },
       {
-         "url": "https://www.instagram.com/accidentalchaos/",
-         "type": "showup go up",
-         "address": "1041 North Orange Dr, Los Angeles, CA 90038",
-         "day": "tue",
-         "time": "9pm"
+         "mic": "Can't Even Comedy Open Mic",
+         "url": "https://slotted.co/cantevencomedy/",
+         "type": "slotted",
+         "address": "6601 Sunset Blvd, Los Angeles, CA 90028",
+         "time": "4pm-8pm"
       },
       {
-         "url": "https://www.instagram.com/accidentalchaos/",
-         "type": "showup go up",
-         "address": "1041 North Orange Dr, Los Angeles, CA 90038",
-         "day": "wed",
-         "time": "9pm"
+         "mic": "Flashback Trap Mic",
+         "url": "https://slotted.co/trapmic/",
+         "type": "slotted",
+         "address": "7611 Melrose Ave, Los Angeles, CA 90046",
+         "time": "5pm-9pm"
       },
       {
-         "url": "https://www.instagram.com/accidentalchaos/",
-         "type": "showup go up",
-         "address": "1041 North Orange Dr, Los Angeles, CA 90038",
-         "day": "thur",
-         "time": "9pm"
+         "mic": "Fourth Wall Comedy Cafe",
+         "url": "https://slotted.co/fwcafe",
+         "type": "slotted",
+         "address": "5220 Hollywood Blvd, Los Angeles, CA 90027",
+         "time": "12pm-3pm & 6pm-9pm "
       },
       {
-         "url": "https://www.instagram.com/accidentalchaos/",
-         "type": "showup go up",
-         "address": "1041 North Orange Dr, Los Angeles, CA 90038",
-         "day": "fri",
-         "time": "9pm"
-      }
-   ],
-   "Renegades of Fun": [
+         "mic": "Fourth Wall North Hollywood",
+         "url": "https://slotted.co/fourthwall/",
+         "type": "slotted",
+         "address": "11674 Burbank Blvd, Los Angeles, CA 91601",
+         "time": "5pm-10pm"
+      },
       {
+         "mic": "Renegades of Fun",
          "url": "https://www.instagram.com/renegades_of_fun/",
          "type": "showup go up",
          "address": "2828 Greenfield Ave, Los Angeles, CA 90064",
-         "day": "thur",
          "time": "6pm-10pm (sign up at 5:30pm)"
+      }
+   ],
+   "Friday": [
+      {
+         "mic": "Accidental Chaos",
+         "url": "https://www.instagram.com/accidentalchaos/",
+         "type": "showup go up",
+         "address": "1041 North Orange Dr, Los Angeles, CA 90038",
+         "time": "9pm"
+      },
+      {
+         "mic": "Flashback Trap Mic",
+         "url": "https://slotted.co/trapmic/",
+         "type": "slotted",
+         "address": "7611 Melrose Ave, Los Angeles, CA 90046",
+         "time": "5pm-9pm"
+      },
+      {
+         "mic": "Fourth Wall Comedy Cafe",
+         "url": "https://slotted.co/fwcafe",
+         "type": "slotted",
+         "address": "5220 Hollywood Blvd, Los Angeles, CA 90027",
+         "time": "12pm-3pm & 6pm-9pm "
+      },
+      {
+         "mic": "Fourth Wall North Hollywood",
+         "url": "https://slotted.co/fourthwall/",
+         "type": "slotted",
+         "address": "11674 Burbank Blvd, Los Angeles, CA 91601",
+         "time": "5pm-10pm"
+      }
+   ],
+   "Saturday": [
+      {
+         "mic": "Big Chillin Comedy Open Mic",
+         "url": "https://slotted.co/bigchillinopenmic/",
+         "type": "slotted",
+         "address": "120 North Rowan Ave, Los Angeles CA, 90063",
+         "time": "6pm-9pm"
+      },
+      {
+         "mic": "Can't Even Comedy Open Mic",
+         "url": "https://slotted.co/cantevencomedy/",
+         "type": "slotted",
+         "address": "6601 Sunset Blvd, Los Angeles, CA 90028",
+         "time": "4pm-8pm"
+      },
+      {
+         "mic": "Flashback Trap Mic",
+         "url": "https://slotted.co/trapmic/",
+         "type": "slotted",
+         "address": "7611 Melrose Ave, Los Angeles, CA 90046",
+         "time": "6pm-9pm"
+      },
+      {
+         "mic": "Fourth Wall Comedy Cafe",
+         "url": "https://slotted.co/fwcafe",
+         "type": "slotted",
+         "address": "5220 Hollywood Blvd, Los Angeles, CA 90027",
+         "time": "12pm-3pm & 6pm-9pm "
+      },
+      {
+         "mic": "Fourth Wall North Hollywood",
+         "url": "https://slotted.co/fourthwall/",
+         "type": "slotted",
+         "address": "11674 Burbank Blvd, Los Angeles, CA 91601",
+         "time": "3pm-10pm"
+      }
+   ],
+   "Sunday": [
+      {
+         "mic": "Flashback Trap Mic",
+         "url": "https://slotted.co/trapmic/",
+         "type": "slotted",
+         "address": "7611 Melrose Ave, Los Angeles, CA 90046",
+         "time": "6pm-9pm"
+      },
+      {
+         "mic": "Fourth Wall Comedy Cafe",
+         "url": "https://slotted.co/fwcafe",
+         "type": "slotted",
+         "address": "5220 Hollywood Blvd, Los Angeles, CA 90027",
+         "time": "12pm-3pm & 6pm-9pm "
+      },
+      {
+         "mic": "Fourth Wall North Hollywood",
+         "url": "https://slotted.co/fourthwall/",
+         "type": "slotted",
+         "address": "11674 Burbank Blvd, Los Angeles, CA 91601",
+         "time": "3pm-10pm"
+      },
+      {
+         "mic": "The Comedy Nook",
+         "url": "https://slotted.co/comedynookmic/",
+         "type": "slotted",
+         "address": "7456 Melrose Ave, West Hollywood, CA 90046",
+         "time": "6pm-9pm"
       }
    ]
 }
