@@ -12,27 +12,6 @@
 <script>
   
 $(document).ready(function(){
-  /*var data = {
-        "action":
-            [
-                { "id": "1001", "type": "Matrix" },
-                { "id": "1002", "type": "IP Man" },
-                { "id": "1003", "type": "Revenge" }
-            ],
-        "comedy":
-            [
-                { "id": "2001", "type": "Iceman" },
-                { "id": "2002", "type": "Pat & Mat" },
-                { "id": "2003", "type": "Sugar" }
-                 ],
-        "animation":
-            [
-                { "id": "3001", "type": "Frozen" },
-                { "id": "3002", "type": "Tangled" },
-                { "id": "3003", "type": "Croods" }
-                 ]
-    };*/
-  
   $.getJSON("json/micList.json", function(data){
     for (var i in data) {
       $('.nav-tabs').append('<li role="presentation" class="nav-item"><button class=nav-link data-bs-toggle="tab" data-bs-target="#' + i +'" aria-controls="' + i + '" role="tab" data-toggle="tab" type="button">' + i + '</button></li>');
@@ -41,7 +20,7 @@ $(document).ready(function(){
       
       for (var j = 0; j < data[i].length; j++) {
         var obj = data[i][j];
-        div += '<div id="' + obj.id + '">' + obj.mic + '</div>';
+        div += '<div class="d-flex align-items-start"><div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical"><button class="nav-link id="v-pills-' + obj.mic + '-tab"data-bs-toggle="pill" data-bs-target="#v-pills-' + obj.mic + '" type="button" role="tab" aria-controls="v-pills-' + obj.mic + '">' + obj.mic + '</button></div></div>';
      }
      $('.tab-content').append(div);
 }
